@@ -1,5 +1,5 @@
 [package]
-authors = ["lishaojie <lishaojie@hstypay.com>"]
+authors = ["lishaojie <lishaojie@aax.com>"]
 edition = "2018"
 name = "guessing_game"
 version = "0.1.0"
